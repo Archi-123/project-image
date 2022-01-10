@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+#island{
+    padding-right: 50px;
+}
+#fields{
+    padding-right: 50px;
+}
